@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Sacramento&family=Splash&display=swap');
+
+.top-container {
+	background-color: #9DD6DF;
+}
+
+.top-cloud {
+	margin-left: 800px;
+	margin-top: 200px;
+    width: 100px;
+}
+
+.bottom-cloud {
+	margin-left: 150px;
+    width: 100px;
+}
+
+h1 {
+	font-size: 100px;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Sacramento', cursive;
+}
+
+.title-text {
+	text-align: center;
+	font-size: larger;
+	line-height: 20px;
+}
+
+.pen {
+	text-decoration: underline;
+}
+
+.mountain {
+	margin: 0 auto;
+}
+
+.profile {
+	text-align: center;
+}
+
+.hello {
+	font-size: 50px;
+	color: #66BFBF;
+}
+
+.skill {
+	text-align: center;
+	font-size: 50px;
+	color: #66BFBF;
+}
+
+.gif {
+	float: left;
+	margin-left: 100px;
+	padding: 15px 20px;
+}
+
+.bug {
+	float: right;
+	margin-right: 100px;
+	padding: 15px 20px;
+}
+
+.bughunt {
+	text-align: right;
+}
+
+.bugh {
+	text-align: center;
+	font-size: 50px;
+	color: #66BFBF;
+}
+
+p {
+	font-size: 30px;
+}
+
+.getintouch {
+	text-align: center;
+	font-size: 50px;
+	color: #66BFBF;
+}
+
+.contact {
+	text-align: center;
+}
+
+button {
+	text-align: center;
+	width: 200px;
+	height: 80px;
+	border: none;
+	background-color: #A8A4CE;
+	font-size: 30px;
+	color: white;
+	cursor: pointer;
+}
+
+.botton-container {
+	background-color: black;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	color: grey;
+	text-align: center;
+}
